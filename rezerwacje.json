@@ -1,0 +1,19 @@
+[
+ {
+  "reservationNumber": "1",
+  "pickupDateTime": "22.06.2023. 14:30",
+  "returnDateTime": "27.06.2023. 09:00",
+  "sippCode": "MDMR"
+ },
+ {
+  "reservationNumber": "2",
+  "pickupDateTime": "08.06.2023. 11:15",
+  "returnDateTime": "15.06.2023. 17:00",
+  "sippCode": "MDMR"
+ },
+ {
+  "reservationNumber": "3",
+  "pickupDateTime": "24.06.2023. 18:30",
+  "returnDateTime": "03.07.2023. 12:30",
+  "sippCode": "MDMR"
+ }]
